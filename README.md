@@ -4,7 +4,7 @@
 
 - :telescope: I’m  a Software Engineer and contributing mainly to backend for building web applications.
 
-- :seedling:  Technical Content Writing.
+
 
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
 
