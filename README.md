@@ -6,7 +6,7 @@
 
 
 
-- :zap: In my free time, I solve problems on leetcode and read tech articles.
+
 
 
 
