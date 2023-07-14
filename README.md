@@ -41,9 +41,9 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fithaashraf17&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fiicodes&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fithaashraf17&layout=compact&theme=vision-friendly-dark)](https://github.com/fithaashraf17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiicodes&layout=compact&theme=vision-friendly-dark)](https://github.com/fiicodes/github-readme-stats)
 
 
 
