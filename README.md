@@ -2,9 +2,34 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- :telescope: I’m  a Software Engineer and contributing mainly to backend for building web applications.
+- ## Hi there! 👋
 
+I'm a passionate Backend Developer with a focus on building robust and scalable applications. With a strong foundation in Django, Node.js, and Express, I love diving deep into the backend intricacies to craft efficient solutions.
 
+🔭 **Currently Exploring**  
+I'm actively exploring the exciting world of blockchain technology, aiming to integrate its capabilities into future projects.
+
+### Tech Stack
+
+- **Backend**: Python, Javascript, Java
+- **Frontend**: React 
+- **Other**: Blockchain, PHP, C, C++, Docker
+
+### What I Do
+
+- Develop and maintain backend services and APIs.
+- Implementing blockchain technology in applications.
+- Continuous learning to keep up with the latest trends and technologies.
+
+### Hobbies
+
+- 📚 **Reading**: I love to delve into  books.
+- ✍️ **Blogging**: Sharing knowledge is one of my passions. I write blogs on various tech topics to help and inspire others.
+
+Feel free to connect with me! Let's discuss tech, share ideas, or collaborate on interesting projects.
+
+📫 **Reach Me**
+- Blog: [https://medium.com/@codealfi](https://medium.com/@codealfi)
 
 
 
