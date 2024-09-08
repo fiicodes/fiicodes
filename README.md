@@ -7,18 +7,19 @@
 I'm a passionate Backend Developer with a focus on building robust and scalable applications. With a strong foundation in Django, Node.js, and Express, I love diving deep into the backend intricacies to craft efficient solutions.
 
 🔭 **Currently Exploring**  
-I'm actively exploring the exciting world of blockchain technology, aiming to integrate its capabilities into future projects.
+I'm actively exploring the exciting world of devops.
 
 ### Tech Stack
 
 - **Backend**: Python, Javascript, Java
 - **Frontend**: React 
-- **Other**: Blockchain, PHP, C, C++, Docker
+- **Other**: Blockchain, PHP, C, C++, Docker, Prompt engineering
 
 ### What I Do
 
 - Develop and maintain backend services and APIs.
 - Implementing blockchain technology in applications.
+- Create Prompt for the Bots and application
 - Continuous learning to keep up with the latest trends and technologies.
 
 ### Hobbies
