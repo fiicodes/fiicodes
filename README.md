@@ -7,7 +7,7 @@
 I'm a passionate Backend Developer with a focus on building robust and scalable applications. With a strong foundation in Django, Node.js, and Express, I love diving deep into the backend intricacies to craft efficient solutions.
 
 🔭 **Currently Exploring**  
-I'm actively exploring the exciting world of devops.
+I'm actively exploring the exciting world of AI, Devops 
 
 ### Tech Stack
 
