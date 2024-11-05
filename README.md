@@ -18,7 +18,6 @@ I'm actively exploring the exciting world of AI, Devops
 ### What I Do
 
 - Develop and maintain backend services and APIs.
-- Implementing blockchain technology in applications.
 - Create Prompt for the Bots and application
 - Continuous learning to keep up with the latest trends and technologies.
 
